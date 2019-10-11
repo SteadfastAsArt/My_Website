@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Anzhou LI(李岸洲)
+name: Anzhou LI (李岸洲)
 
 # Username (this should match the folder name)
 authors:
