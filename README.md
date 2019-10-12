@@ -1,10 +1,12 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+# [Personal Website](https://anzhouli.com/)
+This is the source code of my website based on the Hugo Academic template.
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+I purchased my domain through `namecheap` and deployed my website at `netlify`.
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+## Ecosystem
 
-- [**Get Started**](#install)
+* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
+* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 - [View the documentation](https://sourcethemes.com/academic/docs/)
 - [Ask a question](http://discuss.gohugo.io/)
 - [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
@@ -15,23 +17,7 @@
   - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
   - [Wear the T-shirt](https://academic.threadless.com/)
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
-## Install
-
-You can choose from one of the following four methods to install:
-
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
-
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
 ## License
 
