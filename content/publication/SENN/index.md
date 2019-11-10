@@ -1,14 +1,14 @@
 ---
-title: "Scalable Node Embedding based on Network Simplification"
+title: "SENN: Learning Subgraph Prediction via Seq-to-seq Model"
 authors:
+- C. Chen
 - Anzhou Li
-- Chuanchang Chen
 - Yubo Tao
-date: "2019-10-16T00:00:00Z"
+date: "2019-08-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-06-05T00:00:00Z"
+publishDate: "2019-08-30T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

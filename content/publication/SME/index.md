@@ -2,9 +2,9 @@
 title: "Scalable Node Embedding based on Network Simplification"
 authors:
 - Anzhou Li
-- Chuanchang Chen
+- C. Chen
 - Yubo Tao
-date: "2019-10-16T00:00:00Z"
+date: "2019-06-05T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
