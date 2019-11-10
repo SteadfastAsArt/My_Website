@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Random walk based network embedding methods have shown good performance in network analysis, and most of them use negative sampling based on a pre-defined node degree distribution, which has the popular neighbor problem. When extending these static methods to dynamic networks, we not only need to preserve the proximity between nodes and temporal continuity of embeddings, but also support to learn new snapshots incrementally. In this paper, we propose a novel framework by systematically considering the characteristics of dynamic networks for incremental embedding learning. The previous embedding is first used to initialize the current embedding, and positive samples can be generated from added edges to update the embedding incrementally. We further propose a guided negative sampling strategy based on the deleted structure/edges and previous embedding to obtain real and effective negative samples. Finally, we design a simple but effective method for initializing new nodes to generate negative samples for them. We applied two representative static methods for evaluation and the experiments show that our method generally outperforms other SOTA methods in the link prediction and network reconstruction. We also apply our method on anomaly detection to verify the effectiveness in the real-world application.
 
 # Summary. An optional shortened abstract.
-summary: An end-to-end transformer-based model was proposed to make subgraph relevant tasks more accurate and efficient, which could be extensively applied to real world scenarios.
+summary: A novel incremental learning framework on networks was proposed to sample effectively across snapshots.
 
 tags:
 - Representation Learning
