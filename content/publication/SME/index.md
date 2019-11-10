@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Most node embedding methods learn on the node level directly, which could be time-consuming for large networks. There are various motifs in the network, such as stars and connectors. The representations of nodes in the motif exist specific relationships, as demonstrated in our empirical study. In this paper, we propose a general framework for node embeddings based on network simplification to accelerate network representation learning and improve the quality of node embeddings. We identify several specific motifs and simplify them as the anchor-spanner architecture. After learning node embeddings on the simplified network, we propose the corresponding methods to reconstruct the node embeddings of spanners. Our framework can be integrated with most node embedding methods. The experiments demonstrate that our framework can reduce the training time with average of 20%-50% and improve the accuracy of the network reconstruction task up to 40% compared to node embeddings trained on the original networks.
 
 # Summary. An optional shortened abstract.
-summary: We proposed a general framework based on motif simplification to improve the effiency and effectiveness of network representation learning.
+summary: We proposed a general framework based on motif simplification to improve the efficiency and effectiveness of network representation learning.
 
 tags:
 - Source Themes

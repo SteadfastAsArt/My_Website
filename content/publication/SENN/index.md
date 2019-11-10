@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Networks in real world scenarios are often large and time-consuming for current learning methods. In order to address this problem, we propose a transformer-based model for subgraph relevant tasks in dynamic networks. The proposed method is an end-to-end model to learn a mapping from the subgraph structure in the current snapshot to the subgraph structure in the next snapshot directly, i.e., the edge existence among multiple nodes in the subgraph. The model can be iteratively updated via adjacent snapshots in chronological order to learn the evolution of subgraphs in dynamic networks. We compare our model with several SOTA methods by subgraph prediction and subgraph pattern prediction tasks in multiple real-world homogenous and heterogeneous dynamic networks respectively. The results demonstrate that our model generally has better performance in these two tasks, a rise from 1.99% to 14.65%.
 
 # Summary. An optional shortened abstract.
-summary: We proposed a general framework based on motif simplification to improve the effiency and effectiveness of network representation learning.
+summary: An end-to-end tranformer-based model was proposed to make subgraph relevant tasks more accurate and efficient, which could be extensively applied to real world scenarios.
 
 tags:
 - Source Themes
