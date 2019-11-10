@@ -18,7 +18,7 @@ organizations:
   url: "https://www.zju.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I do research which focuses on care for society.
+bio: I do research on benefits for society.
 
 interests:
 - Graph Mining
@@ -74,5 +74,5 @@ email: ""
 
 Anzhou Li is a senior undergraduate student at Zhejiang University. His research cornerstone is social pertinent care, among which he has investigated the area of graph mining and urban computing.
 
-He is now looking forward to a graduate program.
+He is now looking forward to graduate programs for 2020 Fall.
 

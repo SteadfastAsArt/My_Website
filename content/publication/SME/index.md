@@ -1,7 +1,9 @@
 ---
-title: "Simplified Motif Embedding"
+title: "Scalable Node Embedding based on Network Simplification"
 authors:
-- admin
+- Anzhou Li
+- Chuanchang Chen
+- Yubo Tao
 date: "2019-10-16T00:00:00Z"
 doi: ""
 
@@ -18,10 +20,10 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: Most of the training methods in network representation learning are of uniform level since they take the whole set of graph primitives as input. It is time consuming when dealing with the situation of real-world complex networks. Meanwhile, the scale-free property will be violated when networks consist of large amounts of high-degree motifs. We propose a computing framework that applies specific transformation towards the original graph and embeddings to deal with these problems. In this framework, a general architecture "anchor-spanner" is proposed as an efficient representation of real-world frequent motifs. The extensive experiments conducted in this paper illustrate promising results both on running time improvement with average of 20%-50% and up to 40% enhancement on network reconstruction tasks out of SOTA embedding methods. Our framework also holds excellent extendibility and adaptability towards various real-world environment and training methods.
+abstract: Most node embedding methods learn on the node level directly, which could be time-consuming for large networks. There are various motifs in the network, such as stars and connectors. The representations of nodes in the motif exist specific relationships, as demonstrated in our empirical study. In this paper, we propose a general framework for node embeddings based on network simplification to accelerate network representation learning and improve the quality of node embeddings. We identify several specific motifs and simplify them as the anchor-spanner architecture. After learning node embeddings on the simplified network, we propose the corresponding methods to reconstruct the node embeddings of spanners. Our framework can be integrated with most node embedding methods. The experiments demonstrate that our framework can reduce the training time with average of 20%-50% and improve the accuracy of the network reconstruction task up to 40% compared to node embeddings trained on the original networks.
 
 # Summary. An optional shortened abstract.
-summary: We proposed a general framework used to improve the results of network representation learning.
+summary: We proposed a general framework based on motif simplification to improve the effiency and effectiveness of network representation learning.
 
 tags:
 - Source Themes
