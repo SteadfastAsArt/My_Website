@@ -26,7 +26,7 @@ abstract: Most node embedding methods learn on the node level directly, which co
 summary: We proposed a general framework based on motif simplification to improve the efficiency and effectiveness of network representation learning.
 
 tags:
-- Source Themes
+- Representation Learning
 featured: false
 
 # links:
