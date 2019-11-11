@@ -45,7 +45,11 @@ slides:
 ---
 
 ## Accomplishments
-![](/img/RentingX/pr0.png)![](/img/RentingX/pr1.png)
+
+<figure class="half">
+    <img src="/img/RentingX/pr0.png">
+    <img src="/img/RentingX/pr1.png">
+</figure>
 
 ---
 
