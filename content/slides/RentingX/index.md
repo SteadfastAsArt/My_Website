@@ -45,13 +45,12 @@ slides:
 ---
 
 ## Accomplishments
-
 <figure class="half">
     <img src="/img/RentingX/pr0.jpg" width="400">
     <img src="/img/RentingX/pr1.jpg" width="400">
 </figure>
 
----
+<!-- ---
 
 Make content appear incrementally
 
@@ -65,6 +64,6 @@ Press `Space` to play!
 
 {{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}} -->
 
 
