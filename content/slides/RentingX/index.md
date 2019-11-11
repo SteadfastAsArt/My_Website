@@ -44,7 +44,10 @@ slides:
 
 ---
 
-## Fragments
+## Accomplishments
+![](/img/RentingX/pr0.png)![](/img/RentingX/pr1.png)
+
+---
 
 Make content appear incrementally
 
