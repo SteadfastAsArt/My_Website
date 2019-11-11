@@ -17,7 +17,7 @@ slides:
 
 <!-- [Academic](https://sourcethemes.com/academic/) -->
 
-![demo](/img/RentingX/featured.png)
+
 
 ---
 
@@ -27,6 +27,8 @@ slides:
 - 3-in-1: Create, Present, and Publish your slides
 - Supports speaker notes
 - Mobile friendly slides
+
+![demo](/img/RentingX/featured.png)
 
 ---
 
