@@ -47,8 +47,8 @@ slides:
 ## Accomplishments
 
 <figure class="half">
-    <img src="/img/RentingX/pr0.png">
-    <img src="/img/RentingX/pr1.png">
+    <img src="/img/RentingX/pr0.jpg">
+    <img src="/img/RentingX/pr1.jpg">
 </figure>
 
 ---
