@@ -21,41 +21,29 @@ slides:
 
 ---
 
+## Spotlight
+
+- Target on China's huge house renting market
+- Heterougenous & abundant data sources
+- Spatial-temporal analysis + Ranking model backend
+- Efficient & fluent experience
+
+<img src="/img/RentingX/0.png" width="600">
+
+---
+
 ## Features
+### Query
 
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
-
-<img src="/img/RentingX/0.png"   width="500">
+<img src="/img/RentingX/1.png" width="800">
 
 ---
 
-## Controls
+## Features
+### Easy Commutors
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+<img src="/img/RentingX/2.png" width="800">
 
----
-
-## Code Highlighting
-
-Inline code: `variable`
-
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
 
 ---
 
@@ -116,20 +104,6 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
 
 ---
 
