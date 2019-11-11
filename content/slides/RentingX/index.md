@@ -13,9 +13,11 @@ slides:
   highlight_style: dracula
 ---
 
-# Welcome to Slides
+# Welcome to RentingX
 
-[Academic](https://sourcethemes.com/academic/)
+<!-- [Academic](https://sourcethemes.com/academic/) -->
+
+![demo]("/img/featured.png")
 
 ---
 
