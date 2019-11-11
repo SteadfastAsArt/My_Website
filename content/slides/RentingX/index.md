@@ -28,7 +28,7 @@ slides:
 - Supports speaker notes
 - Mobile friendly slides
 
-![demo](/img/RentingX/0.png)
+<img src="/img/RentingX/0.png"  height="100" width="200">
 
 ---
 
