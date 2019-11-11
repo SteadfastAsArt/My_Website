@@ -17,7 +17,7 @@ slides:
 
 <!-- [Academic](https://sourcethemes.com/academic/) -->
 
-![demo]("/img/featured.png")
+![demo](/img/featured.png)
 
 ---
 
