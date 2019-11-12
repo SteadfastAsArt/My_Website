@@ -31,8 +31,11 @@ url_video: ""
 slides: RentingX
 ---
 
-RentingX integrate ...
-# dfdf
-+ fsdfsd
-+ fdsfsdfs
-## fdsf
+RentingX is aimed at the house renting market in China, which is a rising area because more and more young people tend to make a living in big cities where the price of apartment is too high for them to afford it, whereas Chinese traditional belief goes that owning a house is of vital importance.
+So this platform is designed to fit their needs in various aspects including:
+- attribute query, spatial query
+- rank model in multi-dimensions
+- interactive accessibility exploration
+The data come from up to ten renting companies in China, most of them fail to utilize their resources.
+
+Special thanks to my supervisor [Prof. Zhang Feng](https://person.zju.edu.cn/en/fengzhang) for her dedicated efforts and recognition!

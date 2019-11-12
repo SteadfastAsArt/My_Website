@@ -38,7 +38,7 @@ slides:
 ---
 
 ## Features
-- Easy Commutor
+- Easy Commuter
 
 <img src="/img/RentingX/2.png" width="800">
 
