@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/CV_LiAnzhou_191001.pdf
+  link: files/CV_LiAnzhou_200911.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -74,5 +74,5 @@ email: ""
 
 Anzhou Li is a senior undergraduate student at Zhejiang University. His research cornerstone is social pertinent care, among which he has investigated the area of graph mining and urban computing.
 
-He is now looking forward to graduate programs for 2020 Fall.
+He is now looking forward to industrial internship in 2021 spring.
 
